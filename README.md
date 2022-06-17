@@ -1,6 +1,6 @@
 # FestivalMusica_HTML_CSS_JS_SCSS
 
-**Proyecto utilizando:** HTML5, CSS3, SCSS, Y JavaScript
+**Proyecto utilizando:** HTML5, CSS3, SCSS, Y JavaScript(JS)
 
 **Descripcion:** Proyecto realizado con HTML5, CSS, JavaScript **(GALERIA DE FOTOS)** Y SCSS, con pilado con el manejador de tarea basado en JavaScript conocido como gulp.
 
